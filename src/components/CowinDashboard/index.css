@@ -1,0 +1,50 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  background-color: #161625;
+  min-height: 100vh;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 80%;
+}
+.nav-container {
+  display: flex;
+  margin-top: 30px;
+  align-items: center;
+}
+.website-logo {
+  height: 60px;
+  width: 60px;
+  margin-right: 20px;
+}
+.nav-heading {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.heading {
+  color: #cbd5e1;
+  font-size: 34px;
+  font-family: 'Roboto';
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+.bar-chart-container {
+  margin-bottom: 20px;
+  background-color: #1c1c2b;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.sub-head {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 22px;
+}

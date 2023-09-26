@@ -1,0 +1,10 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bar-chart-container {
+  margin-bottom: 20px;
+  background-color: #1c1c2b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
